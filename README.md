@@ -4,6 +4,7 @@ Web yang saya buat kali ini berfungsi untuk menampilkan informasi terkait cara-c
 Untuk tampilan di dalam web ini sendiri khusus untuk admin, sehingga di dashboard tidak menampilkan data keseluruhan senjata, melainkan menampilkannya di dalam menu pengelolaan.
 Untuk fitur-fitur yang ada antara lain dashboard, pengelolaan, dan profile.
 Berikut beberapa screenshots ketika menjalankan web tersebut:
+
 Login:
 <img width="1919" height="871" alt="image" src="https://github.com/user-attachments/assets/f4d69819-7bd5-454c-b331-ccf73745208b" />
 Dashboard (pc):
